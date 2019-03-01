@@ -1,1 +1,1 @@
-# TF-IDF-Information-Retrieval
+# Information-Retrieval-TF-IDF
